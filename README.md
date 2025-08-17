@@ -1,4 +1,4 @@
-# <p align="center"> inject
+# <p align="center"> sigsend 
 <p align="center"> Variety Of Implementations Of A Kill Program Variant 
 
 ### Setup  
